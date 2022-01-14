@@ -52,6 +52,11 @@
     color: #fff;
 }
 
+.bg-primary, .btn-primary,
+.bg-secondary, .btn-secondary,
+.bg-dark, .btn-dark{
+    color: #fff;
+}
 /* Text Sizes */
 
 .lead {
